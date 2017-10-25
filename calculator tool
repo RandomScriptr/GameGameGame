@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a;
+    int b;
+    int sum;
+    cout << "enter number u egg sucker /n";
+    cin >> a;
+
+    cout << "ANOTHER ONE";
+    cin >> b;
+
+    sum = a + b;
+    cout << "your answer is ...." << sum <<endl;
+
+    return 0;
+}
