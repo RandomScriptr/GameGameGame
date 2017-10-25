@@ -7,7 +7,7 @@ int main()
     int a;
     int b;
     int sum;
-    cout << "enter number u egg sucker /n";
+    cout << "enter number u egg sucker ";
     cin >> a;
 
     cout << "ANOTHER ONE";
